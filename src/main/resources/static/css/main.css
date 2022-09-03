@@ -611,6 +611,9 @@ section {
   margin-bottom: 20px;
   font-family: var(--font-secondary);
 }
+.about{
+  background: #0dcaf0;
+}
 
 .about .call-us {
   left: 10%;
